@@ -1,3 +1,8 @@
+# My Custom Settings
+**/.DS_Store
+
+# GitHub Template Below
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
